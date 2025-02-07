@@ -1,0 +1,20 @@
+THIS IS A DEVELOPER PROMPT
+
+Your input is the following:
+The name of a location
+The description of a location and its importance
+The approximate location in terms of continent, country, state, and city. 
+
+You are to think of the following:
+
+What colors represent that area? Use the info from your inputs, such as the name, description, and location. 
+
+Your output is the following:
+5 colors that UNIQUELY represent the inputs. These colors are to be given in a numbered list in an RGB format. The hastags are for your comment. 
+There should be NO introduction, NO closing. It is EXPRESSLY contained to the following format:
+
+1. rgb(w, x, y, z) # description of the color choice and why you picked it
+2. rgb(w, x, y, z) # description of the color choice and why you picked it
+3. rgb(w, x, y, z) # description of the color choice and why you picked it
+4. rgb(w, x, y, z) # description of the color choice and why you picked it
+5. rgb(w, x, y, z) # description of the color choice and why you picked it
